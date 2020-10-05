@@ -57,6 +57,7 @@
   <project path="hardware/pixys/interfaces" name="hardware_pixys_interfaces" remote="pixys" />
 
   <!-- Packages Repos -->
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="pixys" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixys" />
 
   <!-- Prebuilts Repos -->
